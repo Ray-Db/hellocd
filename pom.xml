@@ -12,7 +12,7 @@
 	<artifactId>hellocd</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>hellocd</name>
-	<description>Demo project for Continuous Delivery </description>
+	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
